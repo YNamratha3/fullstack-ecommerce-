@@ -34,4 +34,4 @@ A modern, feature-rich E-Commerce platform built for the **Internship Project**.
 *For detailed setup instructions in VS Code, please read [VSCODE_SETUP.md](./VSCODE_SETUP.md).*
 
 ## 👥 Authors
-*   **Your Name/Team Name** - E-Commerce Internship Project
+*   **Y Namratha** - E-Commerce Internship Project
