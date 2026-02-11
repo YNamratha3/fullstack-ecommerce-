@@ -1,0 +1,26 @@
+# --- Frontend (Node/React) ---
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# --- Backend (Java/Maven) ---
+backend/target/
+backend/*.log
+backend/**/*.class
+backend/.mvn/wrapper/maven-wrapper.properties
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+
+# --- Local Tools ---
+# Ignore the portable Maven folder
+apache-maven-3.9.5/
